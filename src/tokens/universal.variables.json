@@ -674,6 +674,12 @@
         }
       },
       "container": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#B13434"
+          }
+        },
         "background": {
           "type": "color",
           "value": "#ffffff"
@@ -698,6 +704,12 @@
         }
       },
       "divider": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "B13434"
+          }
+        },
         "subtle": {
           "type": "color",
           "value": "rgba(161, 171, 186, 0.4000)"
@@ -1256,6 +1268,12 @@
         }
       },
       "container": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#781F1E"
+          }
+        },
         "background": {
           "type": "color",
           "value": "#0d0f14"
@@ -1280,6 +1298,12 @@
         }
       },
       "divider": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#781F1E"
+          }
+        },
         "subtle": {
           "type": "color",
           "value": "rgba(104, 116, 133, 0.4000)"
