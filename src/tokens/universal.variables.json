@@ -633,6 +633,22 @@
           "value": "rgba(104, 116, 133, 0.5000)"
         }
       },
+      "nav": {
+        "santa": {
+          "background-active": {
+            "type": "color",
+            "value": "#B13434"
+          },
+          "text": {
+            "type": "color",
+            "value": "#D4D4D4"
+          },
+          "text-active": {
+            "type": "color",
+            "value": "#FFFFFFE5"
+          }
+        }
+      },
       "button": {
         "santa": {
           "background": {
@@ -1197,6 +1213,22 @@
         "disabled": {
           "type": "color",
           "value": "rgba(104, 116, 133, 0.5000)"
+        }
+      },
+      "nav": {
+        "santa": {
+          "background-active": {
+            "type": "color",
+            "value": "#781F1E"
+          },
+          "text": {
+            "type": "color",
+            "value": "#D4D4D4"
+          },
+          "text-active": {
+            "type": "color",
+            "value": "#FFFFFFE5"
+          }
         }
       },
       "button": {
