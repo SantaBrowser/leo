@@ -120,7 +120,7 @@
 
     --primary-color: var(
       --leo-button-color,
-      var(--leo-color-button-background)
+      var(--leo-color-button-santa-background)
     );
     --mixed-primary-color: var(--primary-color);
   }

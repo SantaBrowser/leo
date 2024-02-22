@@ -224,7 +224,7 @@
   }
 
   .leo-tooltip .tooltip.info {
-    --background: var(--leo-color-button-background);
+    --background: var(--leo-color-button-santa-background);
     --text: var(--leo-color-container-background);
   }
 

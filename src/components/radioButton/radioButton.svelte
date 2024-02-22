@@ -86,7 +86,7 @@
     --flex-direction: var(--leo-radiobutton-flex-direction, row);
     --checked-color: var(
       --leo-radiobutton-checked-color,
-      var(--leo-color-icon-interactive)
+      var(--leo-color-icon-santa-interactive)
     );
     --checked-color-hover: var(
       --leo-radiobutton-checked-color-hover,

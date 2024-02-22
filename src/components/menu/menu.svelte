@@ -266,7 +266,7 @@
   :global .leo-menu-popup > *[aria-selected],
   :global .leo-menu-popup > *:active {
     background: var(--leo-color-container-interactive);
-    color: var(--leo-color-text-interactive);
+    color: var(--leo-color-text-santa-interactive);
   }
 
   :global .leo-menu-popup ::slotted(*:focus-visible),

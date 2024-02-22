@@ -63,11 +63,11 @@
 
     --active-dot-color: var(
       --leo-navdots-active-color,
-      var(--leo-color-button-background)
+      var(--leo-color-button-santa-background)
     );
     --active-dot-color-hover: var(
       --leo-navdots-active-color-hover,
-      var(--leo-color-icon-interactive)
+      var(--leo-color-icon-santa-interactive)
     );
     --dot-color: var(--leo-navdots-color, var(--leo-color-primary-20));
     --dot-color-hover: var(

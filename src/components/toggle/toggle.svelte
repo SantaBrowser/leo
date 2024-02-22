@@ -111,7 +111,7 @@
     --padding: var(--leo-toggle-padding, 2px);
     --checked-color: var(
       --leo-toggle-checked-color,
-      var(--leo-color-button-background)
+      var(--leo-color-button-santa-background)
     );
     --checked-color-hover: var(
       --leo-toggle-checked-color-hover,

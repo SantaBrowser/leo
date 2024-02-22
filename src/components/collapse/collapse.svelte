@@ -95,7 +95,7 @@
     );
     --summary-color-hover: var(
       --leo-collapse-summary-color-hover,
-      var(--leo-color-text-interactive)
+      var(--leo-color-text-santa-interactive)
     );
     --icon-color: var(--leo-collapse-icon-color, var(--leo-color-icon-default));
     --icon-color-hover: var(

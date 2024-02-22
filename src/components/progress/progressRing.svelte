@@ -36,7 +36,7 @@
     --transition-duration: var(--leo-progressring-transition-duration, 0.2s);
     --stroke-color: var(
       --leo-progressring-color,
-      var(--leo-color-button-background)
+      var(--leo-color-button-santa-background)
     );
     --stroke-width: var(--leo-progressring-stroke-width, 4px);
     --radius: 24px;
