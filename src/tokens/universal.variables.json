@@ -582,6 +582,12 @@
     },
     "---light": {
       "text": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#B13434"
+          }
+        },
         "primary": {
           "type": "color",
           "value": "#0d0f14"
@@ -608,6 +614,12 @@
         }
       },
       "icon": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#B13434"
+          }
+        },
         "default": {
           "type": "color",
           "value": "#687485"
@@ -622,6 +634,12 @@
         }
       },
       "button": {
+        "santa": {
+          "background": {
+            "type": "color",
+            "value": "#B13434"
+          }
+        },
         "background": {
           "type": "color",
           "value": "#3f39e8"
@@ -1130,6 +1148,12 @@
     },
     "---dark": {
       "text": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#781F1E"
+          }
+        },
         "primary": {
           "type": "color",
           "value": "#f6f7f8"
@@ -1156,6 +1180,12 @@
         }
       },
       "icon": {
+        "santa": {
+          "interactive": {
+            "type": "color",
+            "value": "#781F1E"
+          }
+        },
         "default": {
           "type": "color",
           "value": "#a1abba"
@@ -1170,6 +1200,12 @@
         }
       },
       "button": {
+        "santa": {
+          "background": {
+            "type": "color",
+            "value": "#781F1E"
+          }
+        },
         "background": {
           "type": "color",
           "value": "#3f39e8"
