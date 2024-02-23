@@ -212,7 +212,7 @@
   }
 
   .leo-menu .leo-menu-popup {
-    background: var(--leo-color-container-background);
+    background: var(--leo-color-container-santa-background);
     box-shadow: var(--leo-effect-elevation-03);
 
     // TODO(petemill): Make the "floating-ui" element be this popup element,

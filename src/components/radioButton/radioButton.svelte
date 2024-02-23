@@ -90,7 +90,7 @@
     );
     --checked-color-hover: var(
       --leo-radiobutton-checked-color-hover,
-      var(--leo-color-primary-50)
+      var(--leo-color-primary-santa-50)
     );
     --unchecked-color: var(
       --leo-radiobutton-unchecked-color,

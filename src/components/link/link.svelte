@@ -28,7 +28,7 @@
 <style lang="scss">
   a {
     --color: var(--leo-link-color, var(--leo-color-text-santa-interactive));
-    --hover-color: var(--leo-link-hover-color, var(--leo-color-primary-60));
+    --hover-color: var(--leo-link-hover-color, var(--leo-color-primary-santa-60));
     --visited-color: var(--leo-link-visited-color, var(--leo-color-pink-50));
     --disabled-color: var(
       --leo-link-disabled-color,

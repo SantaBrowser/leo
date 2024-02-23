@@ -116,7 +116,7 @@
      * button color palette.
      */
     --foreground: var(--leo-color-text-primary);
-    --background: var(--leo-color-container-background);
+    --background: var(--leo-color-container-santa-background);
 
     --primary-color: var(
       --leo-button-color,

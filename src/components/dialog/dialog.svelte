@@ -108,7 +108,7 @@
     --border-radius: var(--leo-dialog-border-radius, var(--leo-radius-xl));
     --background: var(
       --leo-dialog-background,
-      var(--leo-color-container-background)
+      var(--leo-color-container-santa-background)
     );
     --color: var(--leo-dialog-color, var(--leo-color-text-primary));
 

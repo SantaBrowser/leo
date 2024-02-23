@@ -63,7 +63,7 @@
     );
     --background-color: var(
       --leo-collapse-background-color,
-      var(--leo-color-container-background)
+      var(--leo-color-container-santa-background)
     );
     --background-color-hover: var(
       --leo-collapse-background-color-hover,
@@ -77,7 +77,7 @@
     );
     --border-color-hover: var(
       --leo-collapse-border-color-hover,
-      var(--leo-color-primary-20)
+      var(--leo-color-primary-santa-20)
     );
     --shadow: var(--leo-collapse-shadow, var(--leo-effect-elevation-01));
     --shadow-hover: var(

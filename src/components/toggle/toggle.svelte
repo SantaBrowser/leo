@@ -115,7 +115,7 @@
     );
     --checked-color-hover: var(
       --leo-toggle-checked-color-hover,
-      var(--leo-color-primary-60)
+      var(--leo-color-primary-santa-60)
     );
     --unchecked-color: var(
       --leo-toggle-unchecked-color,
@@ -138,7 +138,7 @@
     @theme (dark) {
       --checked-color-hover: var(
         --leo-toggle-checked-color-hover,
-        var(--leo-color-primary-40)
+        var(--leo-color-primary-santa-40)
       );
       --thumb-disabled-color: var(--leo-toggle-thumb-disabled-color, black);
     }

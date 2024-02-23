@@ -162,7 +162,7 @@
   .leo-tooltip {
     --background: var(
       --leo-tooltip-background,
-      var(--leo-color-container-background)
+      var(--leo-color-container-santa-background)
     );
     --text: var(--leo-tooltip-text-color, var(--leo-color-text-primary));
     --shadow: var(--leo-tooltip-shadow, var(--leo-effect-elevation-03));
@@ -220,12 +220,12 @@
 
   .leo-tooltip .tooltip.hero {
     --background: var(--leo-gradient-hero);
-    --text: var(--leo-color-container-background);
+    --text: var(--leo-color-container-santa-background);
   }
 
   .leo-tooltip .tooltip.info {
     --background: var(--leo-color-button-santa-background);
-    --text: var(--leo-color-container-background);
+    --text: var(--leo-color-container-santa-background);
   }
 
   .leo-tooltip .tooltip.mini {
