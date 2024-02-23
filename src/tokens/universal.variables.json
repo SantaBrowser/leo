@@ -678,6 +678,10 @@
           "interactive": {
             "type": "color",
             "value": "#B13434"
+          },
+          "background": {
+            "type": "color",
+            "value": "#ffffff"
           }
         },
         "background": {
@@ -826,6 +830,36 @@
         }
       },
       "primary": {
+        "santa": {
+          "10": {
+            "type": "color",
+            "value": "#fff1f1"
+          },
+          "20": {
+            "type": "color",
+            "value": "#ffd1cf"
+          },
+          "30": {
+            "type": "color",
+            "value": "#ff5a63"
+          },
+          "40": {
+            "type": "color",
+            "value": "#e11f3d"
+          },
+          "50": {
+            "type": "color",
+            "value": "#b3002a"
+          },
+          "60": {
+            "type": "color",
+            "value": "#89001e"
+          },
+          "70": {
+            "type": "color",
+            "value": "#460a10"
+          }
+        },
         "10": {
           "type": "color",
           "value": "#f2f5ff"
@@ -1272,6 +1306,10 @@
           "interactive": {
             "type": "color",
             "value": "#781F1E"
+          },
+          "background": {
+            "type": "color",
+            "value": "#101213"
           }
         },
         "background": {
@@ -1420,6 +1458,36 @@
         }
       },
       "primary": {
+        "santa": {
+          "10": {
+            "type": "color",
+            "value": "#460a10"
+          },
+          "20": {
+            "type": "color",
+            "value": "#620f18"
+          },
+          "30": {
+            "type": "color",
+            "value": "#b3002a"
+          },
+          "40": {
+            "type": "color",
+            "value": "#e11f3d"
+          },
+          "50": {
+            "type": "color",
+            "value": "#ff5a63"
+          },
+          "60": {
+            "type": "color",
+            "value": "#ffb1b0"
+          },
+          "70": {
+            "type": "color",
+            "value": "#ffe8e7"
+          }
+        },
         "10": {
           "type": "color",
           "value": "#161065"
