@@ -102,7 +102,7 @@
     --color-hover: var(--color);
     --color-focus: var(--color);
 
-    --background: var(--leo-color-container-background);
+    --background: var(--leo-color-container-santa-background);
     --background-hover: var(--background);
     --background-focus: var(--background);
 
@@ -166,7 +166,7 @@
   }
 
   .leo-control.isOutline {
-    --background: var(--leo-color-container-background);
+    --background: var(--leo-color-container-santa-background);
     --background-hover: var();
     --border-color: var(--leo-color-divider-strong);
     --border-color-hover: var(--leo-color-gray-30);

@@ -70,11 +70,11 @@
     --flex-direction: var(--leo-checkbox-flex-direction, row);
     --checked-color: var(
       --leo-checkbox-checked-color,
-      var(--leo-color-icon-interactive)
+      var(--leo-color-icon-santa-interactive)
     );
     --checked-color-hover: var(
       --leo-checkbox-checked-color-hover,
-      var(--leo-color-primary-50)
+      var(--leo-color-primary-santa-50)
     );
     --unchecked-color: var(
       --leo-checkbox-unchecked-color,

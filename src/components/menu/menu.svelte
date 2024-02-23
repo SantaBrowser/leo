@@ -212,7 +212,7 @@
   }
 
   .leo-menu .leo-menu-popup {
-    background: var(--leo-color-container-background);
+    background: var(--leo-color-container-santa-background);
     box-shadow: var(--leo-effect-elevation-03);
 
     // TODO(petemill): Make the "floating-ui" element be this popup element,
@@ -266,7 +266,7 @@
   :global .leo-menu-popup > *[aria-selected],
   :global .leo-menu-popup > *:active {
     background: var(--leo-color-container-interactive);
-    color: var(--leo-color-text-interactive);
+    color: var(--leo-color-text-santa-interactive);
   }
 
   :global .leo-menu-popup ::slotted(*:focus-visible),

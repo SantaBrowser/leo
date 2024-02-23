@@ -111,11 +111,11 @@
     --padding: var(--leo-toggle-padding, 2px);
     --checked-color: var(
       --leo-toggle-checked-color,
-      var(--leo-color-button-background)
+      var(--leo-color-button-santa-background)
     );
     --checked-color-hover: var(
       --leo-toggle-checked-color-hover,
-      var(--leo-color-primary-60)
+      var(--leo-color-primary-santa-60)
     );
     --unchecked-color: var(
       --leo-toggle-unchecked-color,
@@ -138,7 +138,7 @@
     @theme (dark) {
       --checked-color-hover: var(
         --leo-toggle-checked-color-hover,
-        var(--leo-color-primary-40)
+        var(--leo-color-primary-santa-40)
       );
       --thumb-disabled-color: var(--leo-toggle-thumb-disabled-color, black);
     }
