@@ -617,7 +617,11 @@
         "santa": {
           "interactive": {
             "type": "color",
-            "value": "#B13434"
+            "value": "#DE5947"
+          },
+          "background": {
+            "type": "color",
+            "value": "#DE594726"
           }
         },
         "default": {
@@ -711,7 +715,7 @@
         "santa": {
           "interactive": {
             "type": "color",
-            "value": "B13434"
+            "value": "#DE5947"
           }
         },
         "subtle": {
@@ -1245,7 +1249,11 @@
         "santa": {
           "interactive": {
             "type": "color",
-            "value": "#781F1E"
+            "value": "#DE5947"
+          },
+          "background": {
+            "type": "color",
+            "value": "#DE594726"
           }
         },
         "default": {
@@ -1339,7 +1347,7 @@
         "santa": {
           "interactive": {
             "type": "color",
-            "value": "#781F1E"
+            "value": "#DE5947"
           }
         },
         "subtle": {
