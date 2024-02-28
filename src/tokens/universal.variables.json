@@ -581,14 +581,6 @@
       "value": "#000000"
     },
     "---light": {
-      "gradient": {
-        "santa": {
-          "background": {
-            "type": "color",
-            "value": "linear-gradient(to top, #e9a6a6, #e8b1bc, #e4bece, #e0cbdb, #dfd7e2, #e1dde5, #e4e3e7, #e8e8e8, #eaeaea, #ededed, #efefef, #f2f2f2)"
-          }
-        }
-      },
       "text": {
         "santa": {
           "interactive": {
@@ -1229,14 +1221,6 @@
       }
     },
     "---dark": {
-      "gradient": {
-        "santa": {
-          "background": {
-            "type": "color",
-            "value": "linear-gradient(to top, #200101, #1c0102, #170003, #120003, #0b0002, #070001, #040001, #000000, #000000, #000000, #000000, #000000)"
-          }
-        }
-      },
       "text": {
         "santa": {
           "interactive": {
