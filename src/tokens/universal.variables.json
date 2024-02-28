@@ -653,6 +653,14 @@
           }
         }
       },
+      "chart": {
+        "santa": {
+          "line-color": {
+            "type": "color",
+            "value": "#05ADFF"
+          }
+        }
+      },
       "button": {
         "santa": {
           "background": {
@@ -1282,6 +1290,14 @@
           "text-active": {
             "type": "color",
             "value": "#FFFFFFE5"
+          }
+        }
+      },
+      "chart": {
+        "santa": {
+          "line-color": {
+            "type": "color",
+            "value": "#05ADFF"
           }
         }
       },
