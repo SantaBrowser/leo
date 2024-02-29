@@ -666,6 +666,10 @@
           "background": {
             "type": "color",
             "value": "#B13434"
+          },
+          "background-hover": {
+            "type": "color",
+            "value": "#c5615b"
           }
         },
         "background": {
@@ -1306,6 +1310,10 @@
           "background": {
             "type": "color",
             "value": "#781F1E"
+          },
+          "background-hover": {
+            "type": "color",
+            "value": "#964d47"
           }
         },
         "background": {
