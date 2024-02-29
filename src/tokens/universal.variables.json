@@ -643,6 +643,10 @@
             "type": "color",
             "value": "#B13434"
           },
+          "background-hover": {
+            "type": "color",
+            "value": "#c5615b"
+          },
           "text": {
             "type": "color",
             "value": "#3f4855"
@@ -666,10 +670,6 @@
           "background": {
             "type": "color",
             "value": "#B13434"
-          },
-          "background-hover": {
-            "type": "color",
-            "value": "#c5615b"
           }
         },
         "background": {
@@ -1287,6 +1287,10 @@
             "type": "color",
             "value": "#781F1E"
           },
+          "background-hover": {
+            "type": "color",
+            "value": "#964d47"
+          },
           "text": {
             "type": "color",
             "value": "#D4D4D4"
@@ -1310,10 +1314,6 @@
           "background": {
             "type": "color",
             "value": "#781F1E"
-          },
-          "background-hover": {
-            "type": "color",
-            "value": "#964d47"
           }
         },
         "background": {
