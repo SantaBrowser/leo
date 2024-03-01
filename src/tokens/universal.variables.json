@@ -645,7 +645,7 @@
           },
           "background-hover": {
             "type": "color",
-            "value": "#c5615b"
+            "value": "#893433"
           },
           "text": {
             "type": "color",
@@ -1289,7 +1289,7 @@
           },
           "background-hover": {
             "type": "color",
-            "value": "#964d47"
+            "value": "#893433"
           },
           "text": {
             "type": "color",
