@@ -1351,7 +1351,7 @@
         "santa": {
           "interactive": {
             "type": "color",
-            "value": "#781F1E"
+            "value": "#FFEFEF"
           },
           "background": {
             "type": "color",
