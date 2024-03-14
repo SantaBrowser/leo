@@ -175,7 +175,7 @@
         );
       }
 
-      background: var(--bg-hover, var(--bg));
+      background: var(--bg-hover, var(--leo-color-button-santa-background-hover));
       color: var(--color-hover, var(--color));
       box-shadow: var(--box-shadow-hover);
       border-color: var(--border-color-hover, var(--border-color));

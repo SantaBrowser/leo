@@ -265,7 +265,7 @@
   :global .leo-menu-popup ::slotted(*:active),
   :global .leo-menu-popup > *[aria-selected],
   :global .leo-menu-popup > *:active {
-    background: var(--leo-color-container-interactive);
+    background: var(--leo-color-container-santa-interactive);
     color: var(--leo-color-text-santa-interactive);
   }
 

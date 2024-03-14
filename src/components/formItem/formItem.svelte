@@ -135,8 +135,8 @@
       &.isFocused .container {
         color: var(--color-focus);
         background: var(--background-focus);
-        box-shadow: var(--shadow-focus);
-        border-color: var(--border-color-focus);
+        /* box-shadow: var(--shadow-focus);
+        border-color: var(--border-color-focus); */
       }
 
       &.error .container:hover:not(:has(*:focus-visible)) {
