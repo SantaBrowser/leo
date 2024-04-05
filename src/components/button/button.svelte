@@ -289,6 +289,7 @@
   .leoButton.isOutline {
     --bg: transparent;
     --bg-active: --leo-color-gray-20;
+    --bg-hover: var(--leo-color-icon-santa-background);
     --color: var(--mixed-primary-color);
     --border-width: 1px;
     --border-color: var(--leo-color-divider-interactive);
