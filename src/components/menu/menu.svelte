@@ -242,15 +242,23 @@
    * Each pseudo element has two sets of selectors: One for when it's inside a Svelte component, and one for
    * inside a web component. This could be simplified if leo-menu-item becomes its own Component.
    */
-  :global .leo-menu-popup ::slotted(leo-menu-item),
-  :global .leo-menu-popup ::slotted(leo-option),
-  :global .leo-menu-popup > leo-menu-item,
-  :global .leo-menu-popup > leo-option {
+   :global .leo-menu-popup ::slotted(leo-menu-item),
+   :global .leo-menu-popup > leo-menu-item {
     all: unset;
     cursor: pointer;
     margin: var(--leo-menu-item-margin);
     border-radius: var(--leo-menu-item-border-radius);
     padding: var(--leo-menu-item-padding);
+    display: revert;
+  }
+
+  :global .leo-menu-popup ::slotted(leo-option),
+  :global .leo-menu-popup > leo-option {
+    all: unset;
+    cursor: pointer;
+    margin: var(--leo-spacing-xs);
+    border-radius: var(--leo-menu-item-border-radius);
+    padding: var(--leo-spacing-m);
     display: revert;
   }
 
