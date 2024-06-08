@@ -29,6 +29,7 @@
   export let required = false
   export let mode: Mode = 'outline'
   export let showErrors = false
+  export let maxHeight: string = 'auto';
 
   let dispatch = createEventDispatcher<{
     change: { value: string }
@@ -85,6 +86,7 @@
   <Menu
     target={dropdown}
     bind:isOpen
+    bind:maxHeight
     bind:currentValue={value}
     on:select-item={onItemSelect}
     on:close={(e) => {

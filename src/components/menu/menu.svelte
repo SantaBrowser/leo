@@ -38,6 +38,7 @@
   export let isOpen = false
   export let target: HTMLElement | undefined = undefined
   export let currentValue: string | undefined = undefined
+  export let maxHeight: string = 'auto';
 
   const dispatch = createEventDispatcher<{
     close: CloseEventDetail
@@ -174,7 +175,9 @@
   }
 
   function applySizeMiddleware({ rects, availableHeight }) {
-    popup.style.maxHeight = `var(--leo-menu-max-height, calc(${availableHeight}px - var(--leo-spacing-xl)))`
+   let calculatedHeight = `var(--leo-menu-max-height, calc(${availableHeight}px - var(--leo-spacing-xl)))`
+   popup.style.maxHeight = maxHeight ?? calculatedHeight
+
   }
 
   let floatingMiddleware = [sizeMiddleware({ apply: applySizeMiddleware })]
