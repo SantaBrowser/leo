@@ -275,6 +275,7 @@
     border-radius: var(--leo-menu-item-border-radius);
     padding: var(--leo-spacing-m);
     display: revert;
+    color: var(--leo-color-text-primary);
   }
 
   :global .leo-menu-popup ::slotted(leo-menu-item:hover),
