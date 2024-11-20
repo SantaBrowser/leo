@@ -317,8 +317,10 @@
   .leoButton.isPlain {
     --radius: 8px;
     --padding-x: 2px;
-    --color: var(--mixed-primary-color);
+    --color: #5E5E5E;
+    --color-hover: #B13030;
     --box-shadow-hover: none;
+    --bg-hover: transparent;
 
     &:disabled:not(.isLoading) {
       --color: var(--leo-color-text-primary);
